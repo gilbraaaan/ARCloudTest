@@ -1,3 +1,9 @@
 {
-  "images": []
+    "images": [
+        {
+            "name": "marker_639015784899828334",
+            "url": "https://raw.githubusercontent.com/gilbraaaan/ARCloudTest/main/images/marker_639015784899828334.jpg",
+            "width": 0.15000000596046449
+        }
+    ]
 }
